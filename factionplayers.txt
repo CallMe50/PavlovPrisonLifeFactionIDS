@@ -16,7 +16,6 @@
 "Korboisnotgay"03
 "foste1jj"03
 "QuadMomma"03
-"legendarygreg"03
 "sleeptighty"03
 "isaac.gallegos.7186"03
 "Giffy77"03
@@ -60,3 +59,4 @@
 "JDL0"04
 "LincButBetter"04
 "Spectr011"04
+"legendarygreg"04
