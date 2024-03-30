@@ -18,7 +18,6 @@
 "QuadMomma"03
 "legendarygreg"03
 "sleeptighty"03
-"StrangeSoldier"03
 "isaac.gallegos.7186"03
 "Giffy77"03
 "6kAcez"03
@@ -52,5 +51,6 @@
 "Prada.Up"03
 "Moneyazizi123"04
 "DoomKiet"03
-"StrangeSolider"03
 "AndVen"03
+"StrangeSolider"
+"Spooderman6921"03
