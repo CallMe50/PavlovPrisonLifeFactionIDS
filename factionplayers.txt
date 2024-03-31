@@ -74,3 +74,6 @@
 "CMG1123"01
 "QuadMomma"04
 "Fr0stL3g3nd"04
+"Zamiopi"04
+"scottish2011"
+
