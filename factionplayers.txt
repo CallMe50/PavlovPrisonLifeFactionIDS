@@ -52,7 +52,6 @@
 "LincButBetter"04
 "Cat_Lover21"04
 "Spectr011"04
-"legendarygreg"04
 "JDL0"04
 "RickyGrimesPrime"04
 "djzombz1"04
@@ -66,12 +65,14 @@
 "Mxlow"01
 "JDL0"01
 "QuadMomma"01
-"legendarygreg"01
-"ToasterIzLyfe"01
 "RickyGrimesPrime"01
 "ILL_tell_you_the_day_Mr_Yo"01
 "8272638382whyme"01
 "moneyazizi123"01
 "VRman.209380"01
 "Forget_the_fox"01
+"Dogeslayer246"01
+"ToasterIzLyfe"01
+"legendarygreg"01
+
 
