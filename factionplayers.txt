@@ -47,13 +47,11 @@
 "Spooderman6921"03
 "StrangeSoldier"04
 "Tony_271"02
-"RickyGrimesPrime"04
 "Prada.up"02
 "LincButBetter"04
 "Cat_Lover21"04
 "Spectr011"04
 "JDL0"04
-"RickyGrimesPrime"04
 "djzombz1"04
 "Mxlow"03
 "Buck.079"03
@@ -64,8 +62,6 @@
 "CharlieDavidson"04
 "Mxlow"01
 "JDL0"01
-"QuadMomma"01
-"RickyGrimesPrime"01
 "ILL_tell_you_the_day_Mr_Yo"01
 "8272638382whyme"01
 "moneyazizi123"01
@@ -74,4 +70,5 @@
 "Dogeslayer246"01
 "ToasterIzLyfe"01
 "legendarygreg"01
-"QuadMomma"01
+"Xoxnimm"03
+"RickyGrimesPrime"01
