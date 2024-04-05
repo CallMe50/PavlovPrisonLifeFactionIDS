@@ -20,7 +20,7 @@
 "6kAcez"03
 "CallSignSeraph"04
 "Mr_Squirrley"03
-"firehood15"03
+"firehoo15"03
 "EddieNitro"03
 "Specttre14"03
 "Thunder_walker69"03
@@ -94,7 +94,7 @@
 "DoomKiet"04
 "JrHypest1456"04
 "Shamrogue.one"04
-"BossBoyAidden"04
+"BossBoyAidden"03
 "diddledanny"03
 "soybean92011"03
 "lordradagon"03
