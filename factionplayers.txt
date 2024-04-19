@@ -85,7 +85,6 @@
 "Itsyaboydeshon"04
 "timmy021"01
 "PWSpitfire"01
-"zxb.goat"04
 "Ffailure"04
 "DoomKiet"04
 "JrHypest1456"04
@@ -177,7 +176,6 @@
 "Somethingmemey"01
 "Thingamambob"01
 "LTR_gfg"01
-"zxb.goat"01
 "foste1jj"01
 "Defnot.notsee"01
 "Leewalky"01
@@ -185,3 +183,4 @@
 "uggforever"04
 "Cpl.Wub"04
 "Z8TR4"04
+"zxb.goat"03
