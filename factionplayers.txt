@@ -135,6 +135,7 @@
 "Cashin_85"03
 "mastercheese4"03
 "fiames"03
+"StrangeSoldier"05
 "Angelscreed357"03
 "markar665"03
 "Atennant11"03
@@ -189,3 +190,5 @@
 "Gears_Bro"03
 "dasger"03
 "BigSmiddy"05
+"Fr0stL3g3nd"04
+"panikthacreator"04
