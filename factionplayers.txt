@@ -13,7 +13,6 @@
 "Dev_our"01
 "Plague_vr"03
 "Korboisnotgay"03
-"foste1jj"03
 "sleeptighty"03
 "isaac.gallegos.7186"03
 "6kAcez"03
@@ -155,10 +154,8 @@
 "Defnot.notsee"01
 "Gabecole2011"01
 "in_jail-out_soon"01
-"foste1jj"01
 "Mr.Bomb"01
 "Akontop07"01
-"foste1jj"04
 "NPCism"04
 "Dduds6679"04
 "Potato425"04
@@ -183,10 +180,10 @@
 "Chaoticroomba"05
 "h4m1"05
 "PWSpitfire"05
-"foste1jj"05
 "Dylanc1216"05
 "Dev_our"05
 "Wiya110"05
 "LincButBetter"05
 "2Warm2Luv"05
 "Shadowknight_2"05
+"foste1jj"05
