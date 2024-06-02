@@ -226,3 +226,5 @@
 "SL07H"03
 "Typhoonblood"04
 "Shadowknight_1"04
+"MasonVedder"03
+"Vrgamer213"03
