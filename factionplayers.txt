@@ -263,5 +263,3 @@
 "cjc2319"05
 "Prada.Up"05
 "blood_dragon.95"05
-"yolkyany"04
-"yoikyany"04
