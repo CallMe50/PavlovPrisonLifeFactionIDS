@@ -33,7 +33,6 @@
 "Spooderman6921"02
 "StrangeSoldier"04
 "Prada.up"02
-"Kalinicus"02
 "Mxlow"03
 "Buck.079"03
 "Bray_08"03
@@ -157,7 +156,6 @@
 "Phraze_raptor"04
 "iCYLxrdO2"01
 "Kanjixx"03
-"Kalinicus"05
 "kirbyxoxy"05
 "Giffy77"05
 "BIG.DICK.RANDY"05
