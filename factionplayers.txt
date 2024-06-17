@@ -116,7 +116,6 @@
 "StrangeSoldier"03
 "ThatOddToast"04
 "MoogCity"04
-"renny.ren0"04
 "GermanFist"04
 "matthew2101"04
 "Shadowknight_2"04
@@ -280,7 +279,6 @@
 "Ilovepublixsubs"05
 "Kalinicus"05
 "Envnity."05
-"Renny.ren0"04
 "Jamiehascat"03
 "Getgood2013"03
 "PeckrFam"03
