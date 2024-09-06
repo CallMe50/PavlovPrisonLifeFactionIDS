@@ -203,7 +203,6 @@
 "Deezyomamma"05
 "Phraze_raptor"05
 "Brofood9968"03
-"Dev_our"05
 "Leewalky"05
 "Coopz3"05
 "big.papi.kobax"05
@@ -290,7 +289,6 @@
 "Jett_2028"03
 "Immortal-Sparten"03
 "ChickenNugg13"03
-"legendarygreg"05
 "itbomd"05
 "GuNNy82020"05
 "Cra2ygamer"05
@@ -475,7 +473,6 @@
 "forDrac0"05
 "R3D_boii"05
 "Kanejamie27"05
-"forget_the_fox"05
 "tiny-_-chicken"05
 "edwinms"05
 "Shadowgod057"03
@@ -488,7 +485,6 @@
 "ishowspeed.1"01
 "SyndifyVR"03
 "jett_2028"03
-"forget_the_fox"05
 "Brady_Scooters"01
 "Brental"01
 "YaBoiBrayson2010"01
@@ -510,7 +506,6 @@
 "Eternal2315"04
 "Eternal2315"05
 "9keen123"05
-"legendarygreg"05
 "Commandervr"05
 "ThyAnteater"03
 "hynism"03
